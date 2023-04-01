@@ -1,2 +1,0 @@
-# text-shiwenhao.c
-practice
